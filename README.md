@@ -1,6 +1,6 @@
 # LittleLemon
 LittleLemon
 
-/api/bookings/ <br>
-/api/registration/ <br>
+menu/ <br>
+auth/users/auth/users/ <br>
 
