@@ -1,5 +1,5 @@
 # LittleLemon
 LittleLemon
 
-/api/bookings/
+/api/bookings/ <br>
 /api/registration/
